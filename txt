@@ -1,0 +1,37 @@
+Full stack 
+
+front end 
+Html
+Css
+bootstrap
+javascript
+
+client 
+backend 
+
+
+React.js ( Facebook ) .....
+
+React native 
+
+API
+Rest api
+
+backend 
+core java 
+advanced java 
+spring boot
+
+python
+Django
+
+
+Node js
+express
+
+
+Databases 
+Mysql
+Mongo db 
+
+end full to full web app
